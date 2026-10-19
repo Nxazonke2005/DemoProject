@@ -18,3 +18,8 @@ To run this project locally, you will need:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Nxazonke2005/ASSIGNMENT_POE_PART1.git
+
+   Tests
+   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e102335d-1892-4721-bd43-9f0b375d6e7a" />
+
+   
