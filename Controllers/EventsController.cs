@@ -130,3 +130,4 @@ public class EventsController : Controller
         return _db.Events.FirstOrDefaultAsync(e => e.Id == id && e.OrganiserId == userId);
     }
 }
+
