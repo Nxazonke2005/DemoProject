@@ -21,3 +21,4 @@ public class Enrolment
 
     public Result? Result { get; set; }
 }
+
