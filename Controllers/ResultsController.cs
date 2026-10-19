@@ -167,3 +167,4 @@ public class ResultsController : Controller
         return new CaptureResultsViewModel { EventId = ev.Id, EventName = ev.Name, Rows = rows };
     }
 }
+
